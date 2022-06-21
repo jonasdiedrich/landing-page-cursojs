@@ -105,7 +105,6 @@ thead th {
 
 .main-bg {
   background-image: url(../img/main-bg.svg);
-  /*background-size: cover;*/
   background-position: center center;
   color: var(--white-color);
 }
@@ -438,5 +437,9 @@ thead th {
 
   .menu-spacing {
     display: none;
+  }
+
+  h2 {
+    font-size: 5rem;
   }
 }
